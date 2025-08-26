@@ -1,0 +1,54 @@
+# 🛡️ CySA+ Hands-On Lab Journal
+
+Welcome! This repository documents my hands-on cybersecurity practice while completing **CompTIA CySA+ labs**.  
+It showcases my ability to work with industry tools, investigate threats, analyze vulnerabilities, and document findings in a professional format.  
+
+---
+
+## 👨‍💻 About Me
+I’m **Eric Johnson**, a cybersecurity professional with CompTIA Security+ and CySA+ certifications.  
+I enjoy working with vulnerability management, SOC operations, and threat analysis.  
+This repo highlights how I approach problems, use security tools, and reflect on real-world applications.  
+
+- 📫 [LinkedIn](https://linkedin.com/in/eric-johnson-6351a919b)  
+- 💻 [GitHub Portfolio](https://github.com/ericjohnson4)
+
+---
+
+## 🗂️ Lab Journal Index
+
+| Lab # | Topic | Tools Practiced | Key Skills |
+|-------|-------|----------------|-------------|
+| 1 | Vulnerability Scanning | Nessus | Vulnerability management, risk prioritization |
+| 2 | Incident Response Simulation | Splunk | Log analysis, alert investigation |
+| 3 | Network Traffic Analysis | Wireshark | Packet capture, anomaly detection |
+| 4 | IDS/IPS Tuning | Snort | Rule writing, threat detection |
+| 5 | Malware Analysis (Basic) | YARA, VirusTotal | Threat intel, file analysis |
+| ... | ... | ... | ... |
+
+*(Each lab links to its own folder with notes and screenshots.)*
+
+---
+
+## 🛠️ Tools & Platforms
+Some of the tools I worked with include:
+- **SIEM**: Splunk, Elastic Stack  
+- **Vulnerability Management**: Nessus, OpenVAS  
+- **Network Security**: Wireshark, Snort  
+- **Threat Intel & Forensics**: YARA, VirusTotal  
+
+---
+
+## 📌 Why This Repo Matters
+- ✅ Demonstrates my **hands-on ability** with core cybersecurity tools  
+- ✅ Documents my **workflow and analytical approach**  
+- ✅ Bridges theory from study to **real-world SOC skills**  
+
+---
+
+## 🚀 Next Steps
+As I complete more labs, I’ll continue updating this repo with new topics and reflections.  
+Stay tuned for:  
+- Cloud security investigations (Azure, AWS)  
+- Advanced threat hunting exercises  
+- More SIEM correlation scenarios  
